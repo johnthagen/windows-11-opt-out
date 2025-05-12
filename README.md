@@ -13,7 +13,9 @@ closer to Windows 10.
 
 #### Lock Screen
 
+- **Personalize your lock screen**: Picture
 - **Get fun facts, tips, tricks, and more on your lock screen**: Uncheck
+- **Lock screen status**: None
 
 #### Start
 
