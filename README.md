@@ -35,6 +35,8 @@ closer to Windows 10.
 
 ### Privacy & security
 
+#### General
+
 - **Show me suggested content in the Settings app**: Off
 
 #### Search permissions
