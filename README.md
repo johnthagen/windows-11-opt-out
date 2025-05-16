@@ -1,4 +1,4 @@
-# Opt Out of Windows 11 Advertising
+# Opt Out of Windows 11 Advertising & Tracking
 
 Opt out of Windows 11 advertising and cloud features for greater privacy, and create an experience
 closer to Windows 10.
@@ -37,7 +37,25 @@ closer to Windows 10.
 
 #### General
 
+- **Let apps show me personalized ads by using my advertising ID**: Off
 - **Show me suggested content in the Settings app**: Off
+
+#### Speech
+
+- **Use your voice for apps using Microsoft's online speech recognition technology**: Off
+
+#### Inking & typing personalization
+
+- **Custom inking and typing dictionary**: Off
+
+#### Diagnostics & feedback
+
+- **Send optional diagnostic data**: Off
+- **Tailored experiences**: Off
+
+#### Activity history
+
+- **Store my activity history on this device**: Off
 
 #### Search permissions
 
