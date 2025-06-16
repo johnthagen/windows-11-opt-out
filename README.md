@@ -52,6 +52,7 @@ closer to Windows 10.
 
 - **Send optional diagnostic data**: Off
 - **Tailored experiences**: Off
+- **Feedback frequency**: Never
 
 #### Activity history
 
