@@ -29,6 +29,10 @@ closer to Windows 10.
 - **Taskbar behavior** (Optional)
   - **Taskbar alignment**: Left (for a Windows 10 feel) 
 
+### Apps | Installed Apps
+
+- **Copilot**: `...` | Uninstall
+
 ### Accounts
 
 - Use an **Administrator Local Account**.
